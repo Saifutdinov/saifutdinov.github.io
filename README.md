@@ -74,7 +74,7 @@
 ---
 
 ## Контакты
-- **Email**: sayfutdinov.aydar.web@gmail.com
+- **Email**: [sayfutdinov.aydar.web@gmail.com](mailto:sayfutdinov.aydar.web@gmail.com)
 - **GitHub**: [github.com/Saifutdinov](https://github.com/Saifutdinov)  
 - **LinkedIn**: [linkedin.com/in/sayfutdinov-aydar](https://www.linkedin.com/in/sayfutdinov-aydar/)
 - **Website**: [Saifutdinov.github.io](https://saifutdinov.github.io)
