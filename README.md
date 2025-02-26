@@ -2,6 +2,8 @@
 
 Позиция: **Senior Backend Developer / Tech Lead / Team Lead**  
 
+![Avatar](avatar.jpg "Avatar")
+
 ---
 
 ## О себе
