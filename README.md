@@ -1,8 +1,8 @@
-# Айдар Сайфутдинов
+# Онлайн резюме
 
 Позиция: **Senior Backend Developer / Tech Lead / Team Lead**  
 
-![Avatar](avatar.jpg "Avatar")
+<img src="avatar.jpg" width="50%" alight="right" style="border:5px solid #159957">
 
 ---
 
