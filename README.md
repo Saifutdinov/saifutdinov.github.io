@@ -1,6 +1,6 @@
 # Айдар Сайфутдинов
 
-Позиция: Senior Backend Developer / Tech Lead / Team Lead  
+Позиция: **Senior Backend Developer / Tech Lead / Team Lead**  
 
 ---
 
@@ -11,9 +11,9 @@
 
 ## Ключевые навыки
 
-- **Языки и фреймворки**: Go, PHP (Laravel), JavaScript (Vue, React)
-- **Базы данных**: MongoDB, SQL
-- **Инфраструктура и инструменты**: CI/CD, GitLab, GitHub, Docker
+- **Языки и фреймворки**: Go (Echo), PHP (Laravel, Symfony), JavaScript (Vue, React)
+- **Базы данных**: MongoDB, SQL, Redis, Memcached
+- **Инфраструктура и инструменты**: CI/CD, GitLab, GitHub, Docker, Kubernetes, Exim
 - **Методологии**: Agile/Scrum (планирование, спринты, ретроспективы)
 - **Лидерство**: формирование команд, code review, постановка задач, решение конфликтов
 
@@ -21,26 +21,28 @@
 
 ## Опыт работы
 
-### Университетский проект (PHP)
+### Университетский проект (PHP + JS + CSS). 2015 - 2019 г.
 - Реализовал REST API  
 - Настроил работу с базой данных  
 - Руководил небольшим коллективом (до 3 человек)
 
-### Компания (legacy-код на PHP и MongoDB)
+### BSSL. legacy-код на PHP и MongoDB. 2019 - по сей день
 - Мигрировал и оптимизировал унаследованные системы  
 - Настроил работу с MongoDB, решал нестандартные задачи по хранению данных  
 - Участвовал во фазаx планирования и интеграции новых модулей
 
-### Проект на Golang + React
+### BSSL. Проект на Golang + React. 2022 - по сей день
 - Разработал и оптимизировал REST API  
 - Настроил CI/CD, деплой и взаимодействие с почтовым сервером (защита от спама)  
 - Участвовал в проектировании архитектуры и расширяемых модулей  
+    - мы смогли разделить проект на уровни в соответствии с принцими Clean Architecture
 - Работал с командой 4–5 человек, проводил code review
 
-### Фриланс (Laravel + Vue)
-- Разработка веб-приложений для клиентов на Laravel  
+### Фриланс (PHP + Laravel/Symfony + Vue/React + MongoDB/SQL) 2023 по сей день
+- Разработка веб-приложений для клиентов на Laravel 
 - Внедрение фронтенда с использованием Vue.js  
 - Планирование и развёртывание проектов в короткие сроки
+- Писал парсеры данных
 
 ---
 
@@ -74,7 +76,7 @@
 ---
 
 ## Контакты
-- **Email**: [sayfutdinov.aydar.web@gmail.com](mailto:sayfutdinov.aydar.web@gmail.com)
+- **Email**: <sayfutdinov.aydar.web@gmail.com>
 - **GitHub**: [github.com/Saifutdinov](https://github.com/Saifutdinov)  
 - **LinkedIn**: [linkedin.com/in/sayfutdinov-aydar](https://www.linkedin.com/in/sayfutdinov-aydar/)
 - **Website**: [Saifutdinov.github.io](https://saifutdinov.github.io)

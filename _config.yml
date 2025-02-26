@@ -1,3 +1,14 @@
-theme: jekyll-theme-hacker
-title: Aidar Saifutdinov online CV
+theme: jekyll-theme-cayman
+lang: "ru-RU" 
+
+title: Online CV
 description: A lot of thanks to Katot Does for idea!
+author: Aidar Saifutdinov
+
+url: https://saifutdinov.github.io
+
+google_analytics: 10317972190
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
