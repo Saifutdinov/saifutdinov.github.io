@@ -14,7 +14,7 @@
 
 ## Ключевые навыки
 
-- **Языки и фреймворки**: Go (Echo), PHP 5.6, 8+ (Laravel, Symfony), JavaScript (Vue, React)
+- **Языки и фреймворки**: Go (Echo), PHP 5.6, 8+ (Laravel, Symfony), JavaScript (Vue, React), HTML, CSS
 - **Базы данных**: MongoDB, SQL, MySQL, Postgresql, sqlite, Redis, Memcached etc.
 - **Система контроля версий**: Git, Github & pages, Gitlab (EE/CE & runners), Bitbucket
 - **Инфраструктура**; Linux, docker, docker-compose, kubernetes, (заглядывал в n8n)
