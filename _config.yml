@@ -1,8 +1,11 @@
 theme: jekyll-theme-cayman
-lang: "ru-RU" 
 
-title: Aidar Saifutdinov - Online CV
-description: A lot of thanks to Katot Does for idea!
+lang: "ru-RU" 
+languages: ["en", "ru", "fr"]
+default_lang: "ru"
+
+# title: Aidar Saifutdinov - Online CV
+description: A lot of thanks to Katok Does for idea!
 author: Aidar Saifutdinov
 
 url: https://saifutdinov.github.io

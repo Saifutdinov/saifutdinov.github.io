@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.default_lang }}">
+    <head>
+        <meta charset="UTF-8">
+        <title>{{ page.title }}</title>
+        <!-- <link rel="stylesheet" href="/assets/styles.css"> -->
+        <script>
+        function downloadPDF() {
+            import("https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js").then(
+                (module) => {
+                    const { jsPDF } = module;
+                    const doc = new jsPDF();
+                    doc.text(document.body.innerText, 10, 10);
+                    doc.save("page.pdf");
+                });
+        }
+        </script>
+    </head>
+    <body>
+        <nav>
+            <a href="/en/">English</a> |
+            <a href="/ru/">Русский</a> |
+            <a href="/fr/">Français</a>
+        </nav>
+        <button onclick="downloadPDF()">Скачать в PDF</button>
+
+        <main>
+            {{ content }}
+        </main>
+    </body>
+</html>
