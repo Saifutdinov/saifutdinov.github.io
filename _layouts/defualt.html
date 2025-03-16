@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'ru' }}">
+    {% include common/head.hmtl %}
+    <body>
+
+        <header>
+            <nav>
+                <!-- Ссылки на все языки (пример) -->
+                <a href="{{ '/ru' | relative_url }}">RU</a> |
+                <a href="{{ '/en' | relative_url }}">EN</a> |
+                <a href="{{ '/es' | relative_url }}">ES</a>
+            </nav>
+        </header>
+
+        <main>
+            {{ content }}
+        </main>
+
+        <footer>
+            <p>&copy; {{ site.time | date: '%Y' }}</p>
+        </footer>
+
+        <!-- JS для печати страницы -->
+        <script>
+    function printPage() {
+      window.print();
+    }
+  </script>
+    </body>
+</html>
