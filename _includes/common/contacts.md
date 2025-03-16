@@ -1,0 +1,3 @@
+- Email: [you@example.com](mailto:you@example.com)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)
+- Telegram: [@your_telegram](https://t.me/your_telegram)

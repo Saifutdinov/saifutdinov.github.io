@@ -1,25 +1,13 @@
----
-layout: default
-title: "Resume in Spanish"
-lang: es
----
-
 # My Resume (English)
-![My Photo](/assets/images/myphoto.jpg)
+![My Photo](/assets/images/avatar.jpg)
 
 - [About Me](#about-me)
 - [Team Lead Experience](#team-lead)
 - [Senior Role](#senior)
 
-{% include en/about.md %}
-{% include en/teamlead.md %}
-{% include en/senior.md %}
+{% include es/about.md %}
+{% include es/teamlead.md %}
+{% include es/senior.md %}
 
 ---
-
-## Contacts
-- Email: [you@example.com](mailto:you@example.com)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)
-- Telegram: [@your_telegram](https://t.me/your_telegram)
-
 <button onclick="printPage()">Download PDF</button>
