@@ -1,5 +1,7 @@
+---
+theme: jekyll-theme-cayman
+---
 # Мое резюме (Русская версия)
-
 
 {% include common/nav.md %}
 
