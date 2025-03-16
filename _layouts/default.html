@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: 'ru' }}">
     <head>
         <meta charset="UTF-8">
-        <title>111{{ page.title }} | {{ site.title }}</title>
+        <title>{{ page.title }} | {{ site.title }}</title>
         <!-- Подключение вашего CSS -->
         <link rel="stylesheet"
             href="{{ '/assets/css/style.css' | relative_url }}">
@@ -28,9 +28,9 @@
 
         <!-- JS для печати страницы -->
         <script>
-    function printPage() {
-      window.print();
-    }
-  </script>
+            function printPage() {
+            window.print();
+            }
+        </script>
     </body>
 </html>

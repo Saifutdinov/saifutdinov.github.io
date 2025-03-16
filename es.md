@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Resume in English"
-lang: en
+title: "Resume in Spanish"
+lang: es
 ---
 
 # My Resume (English)
