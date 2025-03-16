@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 
 {% include common/nav.md %}
 
-![Мое фото](/assets/images/avatar.jpg)
+![Мое фото](assets/images/avatar.jpg)
 
 
 <!-- Навигация по блокам -->
