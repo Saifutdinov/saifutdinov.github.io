@@ -1,9 +1,7 @@
 theme: jekyll-theme-cayman
 
-lang: "ru-RU" 
-languages: ["en", "ru", "fr"]
-
-exclude_from_localization: ["assets", "css", "js"]
+lang: "ru" 
+languages: ["en", "ru", "es"]
 
 default_lang: "ru"
 
@@ -11,7 +9,7 @@ title: Aidar Saifutdinov - Online CV
 description: A lot of thanks to Katok Does for idea!
 author: Aidar Saifutdinov
 
-# baseurl: "/ru"
+baseurl: "/ru"
 url: https://saifutdinov.github.io
 
 google_analytics: G-1C8Q33P8ES
