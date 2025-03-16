@@ -1,8 +1,10 @@
 # Мое резюме (Русская версия)
 
-![Мое фото](/assets/images/avatar.jpg)
 
 {% include common/nav.md %}
+
+![Мое фото](/assets/images/avatar.jpg)
+
 
 <!-- Навигация по блокам -->
 - [Обо мне](#обо-мне-about-me)
@@ -17,3 +19,8 @@
 ---
 <!-- Кнопка, печатающая текущую страницу (скачивание в PDF через Print) -->
 <button onclick="printPage()">Скачать текущую страницу в PDF</button>
+
+---
+Контакты
+
+{% include common/contacts.md %}
