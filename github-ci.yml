@@ -1,6 +1,0 @@
-pages:
-  stage: deploy
-  script:
-    - cp -r v1/ .
-  only:
-    - main
