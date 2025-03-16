@@ -1,0 +1,17 @@
+
+{%- include common/nav.md -%}
+
+<main>
+    {{ content }}
+</main>
+
+<footer>
+    <p>&copy; {{ site.time | date: '%Y' }}</p>
+</footer>
+
+<!-- JS для печати страницы -->
+<script>
+    function printPage() {
+        window.print();
+    }
+</script>
