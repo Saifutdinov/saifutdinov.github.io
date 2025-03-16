@@ -5,6 +5,7 @@ languages: ["en", "ru", "fr"]
 
 exclude_from_localization: ["assets", "css", "js"]
 
+
 default_lang: "ru"
 
 title: Aidar Saifutdinov - Online CV
@@ -18,3 +19,4 @@ google_analytics: G-1C8Q33P8ES
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
