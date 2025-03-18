@@ -3,7 +3,7 @@
 Позиция: **Senior Backend Developer / Tech Lead / Team Lead**  
 
 ---
-<img src="avatar.jpg" style="width:45%;border:5px solid #159957;float: right;margin: 2rem 0 0 15px;">
+<img src="/assets/images/avatar.jpg" style="width:45%;border:5px solid #159957;float: right;margin: 2rem 0 0 15px;">
 
 ## О себе
 Я опытный разработчик, специализирующийся на бэкенд-разработке и управлении командами. Моя цель — развивать эффективные процессы разработки и помогать бизнесу достигать результатов, создавая надёжные и расширяемые решения.
