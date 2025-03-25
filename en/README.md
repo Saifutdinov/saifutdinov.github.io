@@ -38,7 +38,7 @@ I am an experienced developer specializing in backend development and team manag
 - **Database**: SQL (Postgres, MySQL, sqlite, Oracle), NoSQL (MongoDB), cache (redis, memcached)
 - **VCS**: git, Github (pages), Gitlab (CE & runners), ci&cd, Bitbucket
 - **Infrastructure**: linux, docker, docker-compose, k8s, n8n, webpack, gulp, vite
-- **Instruments**: bash, nginx, apache, elasticsearch, RabbitMQ/Kafka, exim, PDF References, certbot+letsencrypt, postman, swagger
+- **Instruments**: bash, nginx, apache, elasticsearch, RabbitMQ/Kafka, exim, PDF References(custom PDF generator), certbot+letsencrypt, postman, swagger
 - **Tesing**: unit tests
 
 ---
@@ -167,3 +167,14 @@ I was pleasantly surprised by the outcome—many of the insights lined up with w
 - **LinkedIn**: [linkedin.com/in/sayfutdinov-aydar](https://www.linkedin.com/in/sayfutdinov-aydar/)
 - **Website**: [Saifutdinov.github.io](https://saifutdinov.github.io)
 - **Telegram**: [@Saifutdinov_a](https://t.me/Saifutdinov_a)
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1C8Q33P8ES"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1C8Q33P8ES');
+</script>

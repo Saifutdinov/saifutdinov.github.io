@@ -176,3 +176,14 @@
 - **LinkedIn**: [linkedin.com/in/sayfutdinov-aydar](https://www.linkedin.com/in/sayfutdinov-aydar/)
 - **Website**: [Saifutdinov.github.io](https://saifutdinov.github.io)
 - **Telegram**: [@Saifutdinov_a](https://t.me/Saifutdinov_a)
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1C8Q33P8ES"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1C8Q33P8ES');
+</script>
