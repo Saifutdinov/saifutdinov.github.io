@@ -53,7 +53,7 @@ I am an experienced developer specializing in backend development and team manag
 ---
 
 ### BSSL, Moscow.  2019 - Present (6 years)
-#### - legacy-код PHP + MongoDB. 2019 - Present (6 years)
+#### - legacy-code PHP + MongoDB. 2019 - Present (6 years)
 A singleton project with a long history of improvements and transformations, originally handed over by senior developers. I've been continuously maintaining and enhancing this legacy system, which uses PHP 5.6. This project also introduced me to a custom PDF generator written in PHP, leveraging PDF references for file creation.
 
 - Migrated and optimized inherited systems
@@ -63,7 +63,7 @@ A singleton project with a long history of improvements and transformations, ori
 
 ---
 
-#### - проект на Golang + React. 2022 - Present (4 years)
+#### - Golang + React. 2022 - Present (4 years)
 Together with the team, I designed and developed a large-scale project, azimuth.team. You can learn more about the project at the link above; here are the key points
 - Tech Stack: Golang, React, Postgesql
 - API Development: Built and optimized a REST API using the Golang Echo framework
