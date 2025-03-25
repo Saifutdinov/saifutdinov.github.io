@@ -1,4 +1,3 @@
-<!-- Навигация -->
 [На русском](https://saifutdinov.github.io) | [English version](https://saifutdinov.github.io/en/)
 
 ---
