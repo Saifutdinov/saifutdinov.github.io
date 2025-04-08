@@ -38,7 +38,7 @@ I am an experienced developer specializing in backend development and team manag
 - **Database**: SQL (Postgres, MySQL, sqlite, Oracle), NoSQL (MongoDB), cache (redis, memcached)
 - **VCS**: git, Github (pages), Gitlab (CE & runners), ci&cd, Bitbucket
 - **Infrastructure**: linux, docker, docker-compose, k8s, n8n, webpack, gulp, vite
-- **Instruments**: bash, nginx, apache, elasticsearch, RabbitMQ/Kafka, exim, PDF References(custom PDF generator), certbot+letsencrypt, postman, swagger
+- **Instruments**: bash, nginx, apache, elasticsearch, RabbitMQ/Kafka, exim, PDF References(custom PDF generator), certbot+letsencrypt, postman, swagger, grafana+prometheus
 - **Tesing**: unit tests
 
 ---

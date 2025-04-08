@@ -40,7 +40,7 @@
 - **Хранение данных**: SQL (Postgres, MySQL, sqlite, Oracle), NoSQL (MongoDB), cache (redis, memcached)
 - **Система контроля версий**: git, Github (pages), Gitlab (CE & runners), ci&cd, Bitbucket
 - **Инфраструктура**: linux, docker, docker-compose, k8s, n8n, webpack, gulp, vite
-- **Инструменты**: bash, nginx, apache, elasticsearch, RabbitMQ/Kafka, exim, PDF References(кастомный генератор PDF файлов), certbot+letsencrypt, postman, swagger
+- **Инструменты**: bash, nginx, apache, elasticsearch, RabbitMQ/Kafka, exim, PDF References(кастомный генератор PDF файлов), certbot+letsencrypt, postman, swagger, grafana+prometheus
 - **Тестирование**: unit tests
 
 ---
